@@ -1,0 +1,65 @@
+E-COMMERCE SALES DASHBOARD – INSIGHTS SUMMARY
+
+🛒 SALES OVERVIEW
+---------------------
+- Total Sales Amount: ₹438K
+- Total Profit: ₹37K
+- Total Quantity Sold: 5,615 units
+- Average Order Value (AOV): ₹121K
+
+📈 SALES & PROFIT TRENDS
+--------------------------
+- Best Performing Months by Profit:
+   • February and March showed the highest profits (6K–7K range)
+   • Negative profits seen in August and September
+- Profit consistently declined in mid-year and peaked again in Q4
+- January and November also performed well in profit contribution
+
+🎯 TOP PRODUCTS & CATEGORIES
+-------------------------------
+- Most Profitable Sub-Category:
+   1. Printer – ₹8.6K
+   2. Bookcase – ₹6.5K
+   3. Spare Accessories – ₹4.1K
+- Quantity Sold by Category:
+   • Clothing: 63% of total quantity
+   • Electronics: 21%
+   • Furniture: 17%
+
+💳 PAYMENT MODE INSIGHTS
+----------------------------
+- Most Preferred Payment Mode: Cash on Delivery (COD) – 44%
+- Other modes:
+   • UPI – 21%
+   • Debit Card – 13%
+   • Credit Card – 12%
+   • EMI – 10%
+
+🌍 REGIONAL PERFORMANCE
+-------------------------
+- Top States by Sales Amount:
+   1. Maharashtra – ₹102K
+   2. Madhya Pradesh – ₹87K
+   3. Uttar Pradesh – ₹38K
+   4. Delhi – ₹23K
+- High order volumes seen in metro cities (as shown on map)
+
+👤 CUSTOMER ANALYSIS
+-----------------------
+- Top Customers by Purchase Amount:
+   • Harivansh – ₹9.9K
+   • Madhav – ₹9.4K
+   • Madan Mohan – ₹7.8K
+   • Shiva – ₹6.3K
+
+📌 RECOMMENDATIONS
+----------------------
+- Focus on COD optimization and upsell opportunities (most used method)
+- Investigate causes of negative profit in August and September
+- Clothing drives volume but may have low margin – consider bundling or pricing review
+- Strengthen marketing in top-performing states like Maharashtra and MP
+- Increase personalized offers for repeat customers like Harivansh and Madhav
+
+🎯 OVERALL INSIGHT
+----------------------
+The business is driven by high volume sales in the clothing category and strong demand in states like Maharashtra and Madhya Pradesh. Profitability is highest in electronics and office-related products, while some months show loss—pointing to seasonality or pricing issues. The COD dominance suggests an opportunity to promote prepaid methods for better cash flow and cost control.
