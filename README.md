@@ -18,7 +18,7 @@ The dashboard offers an interactive way to explore the dataset, empowering busin
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview](https://github.com/avishek09/E-Commerce-Store-Analysis-/assets/75924699/5151c585-882b-4db4-b324-a8cc63256fb4)
+![Dashboard Preview](https://github.com/Purab47/Ecommerce_Store_Analysis/blob/main/246595953-5151c585-882b-4db4-b324-a8cc63256fb4.png)
 
 ---
 
