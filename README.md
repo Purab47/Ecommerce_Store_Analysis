@@ -12,7 +12,7 @@ The dashboard offers an interactive way to explore the dataset, empowering busin
 - Evaluate regional performance and customer distribution  
 - Gain actionable insights to drive strategic decisions
 
-📁 A detailed summary of insights can be found in the [`results.txt`](results.txt) file.
+📁 A detailed summary of insights can be found in the [`results.txt`](https://github.com/Purab47/Ecommerce_Store_Analysis/blob/main/Result.txt) file.
 
 ---
 
@@ -83,7 +83,7 @@ To view and interact with this dashboard:
 
 ## 📂 Result Summary
 
-For detailed insights and observations derived from the dashboard, refer to [`results.txt`](results.txt). It includes key takeaways from the data analysis and recommendations for business improvement.
+For detailed insights and observations derived from the dashboard, refer to [`results.txt`](https://github.com/Purab47/Ecommerce_Store_Analysis/blob/main/Result.txt). It includes key takeaways from the data analysis and recommendations for business improvement.
 
 ---
 
