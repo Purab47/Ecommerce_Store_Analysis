@@ -36,7 +36,7 @@ To view and interact with this dashboard:
 
 - 🧩 [`E-Commerce-Store-Dashboard.pbix`](https://github.com/Purab47/Ecommerce_Store_Analysis/blob/main/E-commerce%20Sales%20Dashboard.pbix) 
 - 📄 [`Dataset.csv`](link-to-dataset-if-any) 
-- 📑 [`results.txt`](results.txt) – Project insights summary
+- 📑 [`results.txt`](https://github.com/Purab47/Ecommerce_Store_Analysis/blob/main/Result.txt) – Project insights summary
 
 ---
 
