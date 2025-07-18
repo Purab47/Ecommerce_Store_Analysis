@@ -34,8 +34,8 @@ To view and interact with this dashboard:
 
 ## 📂 Files
 
-- 🧩 [`E-Commerce-Store-Dashboard.pbix`](link-to-pbix-file) *(Replace with actual link or GitHub path)*
-- 📄 [`Dataset.csv`](link-to-dataset-if-any) *(Optional placeholder if you share data)*
+- 🧩 [`E-Commerce-Store-Dashboard.pbix`](https://github.com/Purab47/Ecommerce_Store_Analysis/blob/main/E-commerce%20Sales%20Dashboard.pbix) 
+- 📄 [`Dataset.csv`](link-to-dataset-if-any) 
 - 📑 [`results.txt`](results.txt) – Project insights summary
 
 ---
